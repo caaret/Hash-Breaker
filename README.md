@@ -1,2 +1,2 @@
 # Hash-Breaker
-Fast Python Hash Detector and Brute-Forcer
+Fast Python Hash Detector and Brute-Force
